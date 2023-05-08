@@ -6,3 +6,4 @@
 # Now I can create my "model" using "keras.Sequential" 
 # First I need to use "layers.Flatten" and "input_shape" will be (28,28) """keras.layers.Flatten(input_shape=(28,28))"""
 # Next i create "hidden layer" with (100) neurons and "activation" "relu" """keras.layers.Dense(100, activation = 'relu')"""
+# I have (10) output neurons and "activation" "sigmoid" """keras.layers.Dense(10, activation = 'sigmoid')"""
