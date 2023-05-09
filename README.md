@@ -11,3 +11,4 @@
 # I "compile" my "model" with "optimizer" as "adam", "loss" as "sparse_categorical_crossentropy", because i have values and my "metrics" "accuracy"
 # I train my "model" with "X_train and y_train", set number of "epochs" at (5) and save results on my "tensorboard" 
 # Finally I "summon" "tensorboard" and "saved" "adam model" """%tensorboard --logdir adam"
+# I can also saved "models" with different parameters in "directory" and "load" them on "tensorboard" "%tensorboard --logdir" to compare their performance
