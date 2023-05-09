@@ -10,3 +10,4 @@
 # Now I save my "adam model" at "directory" "log_dir = "logs/adam" and prepare my "tensorboard" "log_dir=log_dir" it will call my "model"
 # I "compile" my "model" with "optimizer" as "adam", "loss" as "sparse_categorical_crossentropy", because i have values and my "metrics" "accuracy"
 # I train my "model" with "X_train and y_train", set number of "epochs" at (5) and save results on my "tensorboard" 
+#
